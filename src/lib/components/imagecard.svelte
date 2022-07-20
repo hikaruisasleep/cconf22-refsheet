@@ -8,11 +8,13 @@
 </div>
 
 <style lang="scss">
+    @use '../styles/colors';
+
     div.card {
         width: min-content;
         padding: 10px;
         margin: 5px;
-        outline: 1px black solid;
+        outline: 1px colors.$fg solid;
         border-radius: 5px;
     }
 </style>

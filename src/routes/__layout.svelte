@@ -6,7 +6,6 @@
     <nav>
         <a href="/">home</a>
         <a href="/inspo">inspirations</a>
-        <a href="/assets">assets</a>
     </nav>
 </header>
 <slot />
